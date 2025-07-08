@@ -1,5 +1,6 @@
 Agriculture Data Analytics Project
-Overview
+
+Overview:
 Analyzed agricultural data across Indian states and districts to uncover trends in crop production, yield, and area cultivated. The project involves data cleaning, EDA, SQL analysis, and Power BI visualization.
 
 Tools Used
